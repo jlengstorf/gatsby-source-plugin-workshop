@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "name": "Jason Lengstorf",
+    "patronus": "bear",
+    "cocktails": [0, 1, 2, 4]
+  },
+  {
+    "id": 1,
+    "name": "Marisa Morby",
+    "patronus": "koala",
+    "cocktails": [2, 3, 4, 5]
+  }
+]

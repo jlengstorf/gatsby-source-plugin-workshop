@@ -1,0 +1,16 @@
+[
+  {
+    "id": 0,
+    "title": "A Photo Diary of My Trip to Pok Pok",
+    "excerpt": "I ate at Pok Pok yesterday. Here are pictures of my food!",
+    "content": "TODO: add photos",
+    "author": "Marisa Morby"
+  },
+  {
+    "id": 1,
+    "title": "Puppies Are the Worst",
+    "excerpt": "I do not like puppies at all. Here’s a list of my reasons",
+    "content": "1. I am a terrible person",
+    "author": "Some Jerk"
+  }
+]

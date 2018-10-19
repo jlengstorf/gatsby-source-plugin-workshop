@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "name": "Flannel Shirt",
+    "mainIngredient": "scotch"
+  },
+  {
+    "id": 1,
+    "name": "Paper Plane",
+    "mainIngredient": "bourbon"
+  },
+  {
+    "id": 2,
+    "name": "Negroni",
+    "mainIngredient": "gin"
+  },
+  {
+    "id": 3,
+    "name": "Aperol Spritz",
+    "mainIngredient": "aperol"
+  },
+  {
+    "id": 4,
+    "name": "Daiquiri",
+    "mainIngredient": "rum"
+  },
+  {
+    "id": 5,
+    "name": "Vermouth",
+    "mainIngredient": "vermouth"
+  }
+]

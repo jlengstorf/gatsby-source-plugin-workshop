@@ -1,0 +1,11 @@
+{
+  "name": "gatsby-source-local-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jason Lengstorf <jason@gatsbyjs.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby-node-helpers": "^0.3.0"
+  },
+  "private": true
+}

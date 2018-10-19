@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "postID": 0,
+    "author": "Jason",
+    "comment": "I like this!"
+  },
+  {
+    "id": 1,
+    "postID": 0,
+    "author": "Joel",
+    "comment": "I also like this!"
+  },
+  {
+    "id": 2,
+    "postID": 1,
+    "author": "Jason",
+    "comment": "This, however, I do not like."
+  }
+]
